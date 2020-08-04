@@ -1,7 +1,8 @@
 # ember-build-time-data-demo
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+[![Build Status](https://travis-ci.org/Robert-96/ember-build-time-data-demo.svg?branch=master)](https://travis-ci.org/Robert-96/ember-build-time-data-demo)
+
+A demo application that uses `ember-build-time-data`.
 
 ## Prerequisites
 
