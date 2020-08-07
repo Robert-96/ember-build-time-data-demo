@@ -15,7 +15,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/Robert-96/ember-build-time-data-demo.git` this repository
 * `cd ember-build-time-data-demo`
 * `npm install`
 
